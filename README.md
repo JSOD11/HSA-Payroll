@@ -10,7 +10,7 @@ HSA Corporate as well as five of its component agencies have hourly workers:
 * [Trademark Tours](https://trademarktours.com)
 * [The Academies by HSA](https://www.academies.hsa.net)
 
-The previous process of verifying hours for hourly workers across HSA and its agencies was error-ridden and required large amounts of manual labor from payroll workers within HSA. I automated this job by writing software that can be run by payroll managers in order to scan for a variety of errors before payroll is submitted to the business office and logged in ADP. Time is saved by reducing the amount of physical work required to check long excel sheets, and time is also saved by allowing payroll managers to check their hourly workers' hours themselves very quickly rather than needing the BO to check first, then communicate this back to the payroll manager, who then communicates this back to the hourlies, and then the reverse. 
+The previous process of verifying hours for hourly workers across HSA and its agencies was error-ridden and required large amounts of manual labor from business office workers within HSA. I automated this job by writing software that can be run by payroll managers in order to scan for a variety of errors before payroll is submitted to the business office and logged in ADP. Time is saved by reducing the amount of physical work required to check long excel sheets, and time is also saved by allowing payroll managers to check their hourly workers' hours themselves very quickly rather than needing the BO to check first, then communicate this back to the payroll manager, who then communicates this back to the hourlies, and then the reverse. 
 
 This process has significantly reduced internal headache and catches more errors than before.
 
