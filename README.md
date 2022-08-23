@@ -1,5 +1,7 @@
 # HSA_payroll
-This is software I wrote for Harvard Student Agencies in order to automate the payroll error-checking process. Harvard Student Agencies is the largest student-run business in the world, with 500+ workers and over $10M in yearly revenue.
+This is software I wrote for Harvard Student Agencies in order to automate the payroll error-checking process. 
+
+Harvard Student Agencies is the largest student-run business in the world, with 500+ workers and over $10M in yearly revenue.
 
 HSA Corporate as well as five of its component agencies have hourly workers:
 
