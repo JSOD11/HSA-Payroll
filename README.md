@@ -21,9 +21,9 @@ This software checks for a variety of possible errors:
 * Employee logged overlapping work intervals
 * Employee logged unusually long work intervals
 * Employee began a work interval at an unusual time
-* Employee worked overtime hours
+* Employee worked overtime hours and was not compensated correctly
 * Employee worked on a Sunday but is not being paid the Sunday rate
-* Employee is not being paid the correct rate for their agency-specific role
+* Employee is not being paid the correct hourly rate for their agency-specific role
 
 ## Implementation
 
