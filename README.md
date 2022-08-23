@@ -16,7 +16,7 @@ This process has significantly reduced internal headache and catches more errors
 
 ## Types of errors
 
-This software checks for a few types of errors:
+This software checks for a variety of possible errors:
 
 * Employee logged overlapping work intervals
 * Employee logged unusually long work intervals
