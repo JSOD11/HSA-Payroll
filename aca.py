@@ -17,7 +17,7 @@ def main():
 
   error_count = 0
 
-  # we will store employees in a custom data structure - dict of dicts, value is a list
+  # we will store employees in a dict of dicts, value is a list of lists
   employee_dict = defaultdict(lambda: defaultdict(list))
 
   for index, row in aca.iterrows():
